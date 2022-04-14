@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "glasgow-escala",
+    "slug": "glasgow-escala",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-bare-typescript"
+}
